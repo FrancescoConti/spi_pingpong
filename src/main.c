@@ -1,12 +1,13 @@
-/**
-  ******************************************************************************
-  * @file    main.c
-  * @author  Ac6
-  * @version V1.0
-  * @date    21-April-2016
-  * @brief   Default main function.
-  ******************************************************************************
-*/
+/* 
+ * main.c
+ * Francesco Conti <f.conti@unibo.it>
+ *
+ * Copyright (C) 2016 ETH Zurich, University of Bologna
+ * All rights reserved.
+ *
+ * This software may be modified and distributed under the terms
+ * of the BSD license.  See the LICENSE file for details.
+ */
 
 #define PING 0
 #define PONG 1
